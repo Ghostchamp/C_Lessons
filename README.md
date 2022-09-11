@@ -1,7 +1,7 @@
 #***:exclamation:Домашние задания про программированию на С:exclamation:***
 ----
 ##:thought_balloon:Список добавленного домашнего задания:
-- :black_square_button:[Задание от 10.09](HM_10_09/ThreeInOne.c)
+- :black_square_button:[Задание от 10.09](HW_10_09/ThreeInOne.c)
 
 
 ----
